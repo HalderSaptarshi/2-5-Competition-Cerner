@@ -3,7 +3,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.InputStreamReader;
 import java.net.URL;
 
-//Prints Cerner
+//Prints Cerner : For correct execution of the code it must remain connected to cerner network
 //cerner_2^5_2016
 
 public class MysteryCode {
