@@ -3,7 +3,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.InputStreamReader;
 import java.net.URL;
 
-//Prints Cerner : Extracts the html source from the link "https://my.cerner.com/" and fetches the word cerner from the html source bytes.
+//Prints Cerner
 //cerner_2^5_2016
 
 public class MysteryCode {
