@@ -8,7 +8,7 @@ import java.net.URL;
 
 public class MysteryCode {
 
-	public static void main(String[] unused) throws Exception {
+	public static void main(String[] args) throws Exception {
 		ByteArrayOutputStream stoned = new ByteArrayOutputStream(20480);
 		int[] magic = { 104, 116, 116, 112, 115, 58, 47, 47, 109, 121, 46, 99, 101, 114, 110, 101, 114, 46, 99, 111,109, 47 };
 		for (int weird : magic) {stoned.write(weird);}
