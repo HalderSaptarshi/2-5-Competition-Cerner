@@ -1,5 +1,5 @@
 
-public class DecodingRoman {
+public class DecodingRoman { 
 	static int getRN(String RN) {
 		int total = 0;
 		for (int i = 0; i < RN.length(); i++) {
